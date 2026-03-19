@@ -8,6 +8,6 @@
 </ul>
 
 ### Installing OpenGL
-``bash
+````bash
 sudo apt install libglfw3-dev libgl-dev
-``
+````
