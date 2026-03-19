@@ -1,6 +1,6 @@
 # LuaJIT-OpenGL
 
-## All OpenGL and GLFW:
+## OpenGL and GLFW:
 <ul>
   <li>Functions</li>
   <li>Defines</li>
