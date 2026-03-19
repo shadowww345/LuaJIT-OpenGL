@@ -1,2 +1,10 @@
 # LuaJIT-OpenGL
-ffi opengl and glfw funcs defines and types
+
+## Functions
+## Defines
+## Types
+
+### Installing OpenGL
+``bash
+sudo apt install libglfw3-dev libgl-dev
+``
