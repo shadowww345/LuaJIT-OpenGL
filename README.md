@@ -1,8 +1,11 @@
 # LuaJIT-OpenGL
-## All:
-### Functions
-### Defines
-### Types
+
+## All OpenGL and GLFW:
+<li>
+  <ul>Functions</ul>
+  <ul>Defines</ul>
+  <ul>Types</ul>
+</li>
 
 ### Installing OpenGL
 ``bash
